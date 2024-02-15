@@ -23,7 +23,7 @@
       <ul class="flex flex-col">
         <Link to="/" >Home</Link>
         <Link to="/about">About Us</Link>
-        <Link to="/services">Services</Link>
+        <Link to="/services/-1">Services</Link>
         <Link to="/connect">Connect</Link>
       </ul>
     </div>
